@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+export type HomeTypes = 'Entire apartment' | 'Private room' | 'Tree House' | 'Hotel room'
 @Component({
   selector: 'app-header-container',
   templateUrl: './header-container.component.html',

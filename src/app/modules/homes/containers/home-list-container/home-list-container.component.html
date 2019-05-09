@@ -1,12 +1,2 @@
-<p>
-  home-list-container works!
-</p>
-<p>
-    home-list-container works!
-</p>
-<p>
-    home-list-container works!
-</p>
-<p>
-    home-list-container works!
-</p>
+<!-- {{(homes$ | async)| json}} -->
+<app-home-list [homes]="homes$ | async"></app-home-list>

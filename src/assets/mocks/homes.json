@@ -1,0 +1,387 @@
+[
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/02a5244d2dd1b4d1f04cd7c653ecd9eefcb0c8b31d9f822138b880d81c2c0652/image.jpg",
+      "type": "Private room",
+      "location": "New York",
+      "title": "Charming gardenroom with woodstove",
+      "price": 73,
+      "rating": {
+        "stars": 4,
+        "count": 183
+      }
+    },
+    {
+      "image_url": "https://ihatetomatoes.net/demos/_rw/01-real-estate/tn_property02.jpg",
+      "type": "Private room",
+      "location": "New York",
+      "title": "Brownstone Studio",
+      "price": 386,
+      "rating": {
+        "stars": 4,
+        "count": 257
+      }
+    },
+    {
+      "image_url": "https://ihatetomatoes.net/demos/_rw/01-real-estate/tn_property03.jpg",
+      "type": "Hotel room",
+      "location": "San Francisco",
+      "title": "Charming gardenroom with woodstove",
+      "price": 948,
+      "rating": {
+        "stars": 2,
+        "count": 707
+      }
+    },
+    {
+      "image_url": "https://ihatetomatoes.net/demos/_rw/01-real-estate/tn_property04.jpg",
+      "type": "Private room",
+      "location": "New York",
+      "title": "Brownstone Studio",
+      "price": 737,
+      "rating": {
+        "stars": 1,
+        "count": 240
+      }
+    },
+    {
+      "image_url": "https://ihatetomatoes.net/demos/_rw/01-real-estate/tn_property05.jpg",
+      "type": "Private room",
+      "location": "San Francisco",
+      "title": "Superb duplex apartment in the historical centre",
+      "price": 307,
+      "rating": {
+        "stars": 3,
+        "count": 333
+      }
+    },
+    {
+      "image_url": "https://ihatetomatoes.net/demos/_rw/01-real-estate/tn_property03.jpg",
+      "type": "Tree house",
+      "location": "Boston",
+      "title": "Brownstone Studio",
+      "price": 998,
+      "rating": {
+        "stars": 3,
+        "count": 536
+      }
+    },
+    {
+      "image_url": "https://ihatetomatoes.net/demos/_rw/01-real-estate/tn_property02.jpg",
+      "type": "Private room",
+      "location": "San Francisco",
+      "title": "Brownstone Studio",
+      "price": 682,
+      "rating": {
+        "stars": 1,
+        "count": 385
+      }
+    },
+    {
+      "image_url": "https://ihatetomatoes.net/demos/_rw/01-real-estate/tn_property01.jpg",
+      "type": "Hotel room",
+      "location": "New York",
+      "title": "Brownstone Studio",
+      "price": 454,
+      "rating": {
+        "stars": 3,
+        "count": 233
+      }
+    },
+    {
+      "image_url": "https://ihatetomatoes.net/demos/_rw/01-real-estate/tn_property02.jpg",
+      "type": "Entire apartment",
+      "location": "New York",
+      "title": "Superb duplex apartment in the historical centre",
+      "price": 893,
+      "rating": {
+        "stars": 0,
+        "count": 717
+      }
+    },
+    {
+      "image_url": "https://ihatetomatoes.net/demos/_rw/01-real-estate/tn_property03.jpg",
+      "type": "Private room",
+      "location": "Boston",
+      "title": "Brownstone Studio",
+      "price": 463,
+      "rating": {
+        "stars": 3,
+        "count": 968
+      }
+    },
+    {
+      "image_url": "https://ihatetomatoes.net/demos/_rw/01-real-estate/tn_property04.jpg",
+      "type": "Hotel room",
+      "location": "San Francisco",
+      "title": "Brownstone Studio",
+      "price": 824,
+      "rating": {
+        "stars": 2,
+        "count": 4
+      }
+    },
+    {
+      "image_url": "https://ihatetomatoes.net/demos/_rw/01-real-estate/tn_property05.jpg",
+      "type": "Entire apartment",
+      "location": "New York",
+      "title": "Superb duplex apartment in the historical centre",
+      "price": 372,
+      "rating": {
+        "stars": 2,
+        "count": 856
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/bfbfa6838c4d9a4d1b8e9eabc384518ba73a7bc4908246210553c8d268af9596/image.jpg",
+      "type": "Private room",
+      "location": "Boston",
+      "title": "Superb duplex apartment in the historical centre",
+      "price": 788,
+      "rating": {
+        "stars": 0,
+        "count": 706
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/968eb4a775f692f1fc2c7948feaa408ae8aedf9eb76f2273deae9841ff0b3560/image.jpg",
+      "type": "Entire apartment",
+      "location": "San Francisco",
+      "title": "Brownstone Studio",
+      "price": 890,
+      "rating": {
+        "stars": 1,
+        "count": 804
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/bca661722ec554252513b9d1bee1665b89654445eb8f74738c6a2980ac246eb5/image.jpg",
+      "type": "Tree house",
+      "location": "Boston",
+      "title": "Charming gardenroom with woodstove",
+      "price": 748,
+      "rating": {
+        "stars": 2,
+        "count": 143
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/0710af341ee67737e080b6c9ea3bd0a533f4692f1821c950b96f7fa7154fcdd5/image.jpg",
+      "type": "Private room",
+      "location": "San Francisco",
+      "title": "Brownstone Studio",
+      "price": 288,
+      "rating": {
+        "stars": 4,
+        "count": 438
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/df8a4b7d333e6bdfcacf44144e4b016213156eef48585c3ce58117fd7bc347c5/image.jpg",
+      "type": "Tree house",
+      "location": "San Francisco",
+      "title": "Charming gardenroom with woodstove",
+      "price": 826,
+      "rating": {
+        "stars": 1,
+        "count": 696
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/90770480572c4d2e63f4f43363772768a66e7ec455e3152fc2456761c2aa3256/image.jpg",
+      "type": "Entire apartment",
+      "location": "Boston",
+      "title": "Charming gardenroom with woodstove",
+      "price": 101,
+      "rating": {
+        "stars": 0,
+        "count": 730
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/8b148e61043f157eaef9738f3b44b6bd6e7377768b4d995267d38ea02a9eb16e/image.jpg",
+      "type": "Tree house",
+      "location": "Boston",
+      "title": "Brownstone Studio",
+      "price": 975,
+      "rating": {
+        "stars": 2,
+        "count": 433
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/497a3cebeb0c5c00cef0bf5a6286d5512758ce764e86e6ba4bc235c68c91f8ac/image.jpg",
+      "type": "Entire apartment",
+      "location": "Boston",
+      "title": "Superb duplex apartment in the historical centre",
+      "price": 276,
+      "rating": {
+        "stars": 1,
+        "count": 566
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/6f9125076caaf32c781a8a4bb4a5c75f5ef501f1d5095c0f331fee39955867b0/image.jpg",
+      "type": "Tree house",
+      "location": "Boston",
+      "title": "Superb duplex apartment in the historical centre",
+      "price": 190,
+      "rating": {
+        "stars": 2,
+        "count": 589
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/a0dd24991ada584e1b1e044066c7951490e6bc0f8e0b2d0d7ebcb98cfd8c9b65/image.jpg",
+      "type": "Hotel room",
+      "location": "Boston",
+      "title": "Superb duplex apartment in the historical centre",
+      "price": 519,
+      "rating": {
+        "stars": 1,
+        "count": 933
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/48afa88853602d6f5fd1856d0e74f3acb7471fc5dbf7c8f3f93fb54b06971e3d/image.jpg",
+      "type": "Hotel room",
+      "location": "Boston",
+      "title": "Superb duplex apartment in the historical centre",
+      "price": 450,
+      "rating": {
+        "stars": 3,
+        "count": 114
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/fd3590554afdf528d531603e2d29bcc8839aa4f2b41000257d12c29fae30937a/image.jpg",
+      "type": "Entire apartment",
+      "location": "Boston",
+      "title": "Brownstone Studio",
+      "price": 842,
+      "rating": {
+        "stars": 0,
+        "count": 574
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/4e5b5381c516f5b9af285abb7da9709cc6900a5d649040893ab9a058804a0b34/image.jpg",
+      "type": "Entire apartment",
+      "location": "San Francisco",
+      "title": "Superb duplex apartment in the historical centre",
+      "price": 945,
+      "rating": {
+        "stars": 2,
+        "count": 223
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/b26327fdfbb1d4abea42de57e2ffb828e5b68dd7015134129cb2df18d1472115/image.jpg",
+      "type": "Entire apartment",
+      "location": "Boston",
+      "title": "Superb duplex apartment in the historical centre",
+      "price": 499,
+      "rating": {
+        "stars": 0,
+        "count": 683
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/02a5244d2dd1b4d1f04cd7c653ecd9eefcb0c8b31d9f822138b880d81c2c0652/image.jpg",
+      "type": "Entire apartment",
+      "location": "New York",
+      "title": "Charming gardenroom with woodstove",
+      "price": 491,
+      "rating": {
+        "stars": 0,
+        "count": 980
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/8271372c855d11816fe73f70c6b9a6a01a3f1d71f636e1ff5d700b53694c2448/image.jpg",
+      "type": "Private room",
+      "location": "Boston",
+      "title": "Brownstone Studio",
+      "price": 110,
+      "rating": {
+        "stars": 0,
+        "count": 746
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/081a9492118b0fe013dac8e6016b624f0b4f9f3cc80e5f283b152469c8adf5f5/image.jpg",
+      "type": "Tree house",
+      "location": "San Francisco",
+      "title": "Brownstone Studio",
+      "price": 897,
+      "rating": {
+        "stars": 1,
+        "count": 729
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/30379b5917480d6225bbed128b271e577f2c4526b2be85940ec893728112bd46/image.jpg",
+      "type": "Entire apartment",
+      "location": "San Francisco",
+      "title": "Charming gardenroom with woodstove",
+      "price": 878,
+      "rating": {
+        "stars": 2,
+        "count": 329
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/3f0487555d07b1499f7dd976f9d29adae6623ba0c80cb2eae985e056087f67d6/image.jpg",
+      "type": "Entire apartment",
+      "location": "Boston",
+      "title": "Brownstone Studio",
+      "price": 341,
+      "rating": {
+        "stars": 4,
+        "count": 114
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/5fa2989db6af32c3723e8df788fbc268784f7694d4076763567f3f678fd49b27/image.jpg",
+      "type": "Entire apartment",
+      "location": "Boston",
+      "title": "Superb duplex apartment in the historical centre",
+      "price": 653,
+      "rating": {
+        "stars": 2,
+        "count": 868
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/57d64bc18dde490f083ce49d38887dfd414437f3ee49c46036b1778ee879625f/image.jpg",
+      "type": "Tree house",
+      "location": "San Francisco",
+      "title": "Charming gardenroom with woodstove",
+      "price": 342,
+      "rating": {
+        "stars": 0,
+        "count": 689
+      }
+    },
+    {
+      "image_url": "https://i2.au.reastatic.net/800x600/b403d2cc455d379dd79a810e6b3b6b79d65820443319b07890dfd8ae98b5aa92/image.jpg",
+      "type": "Private room",
+      "location": "San Francisco",
+      "title": "Brownstone Studio",
+      "price": 9,
+      "rating": {
+        "stars": 4,
+        "count": 163
+      }
+    },
+    {
+      "image_url": "https://res.akamaized.net/domain/image/upload/c_fill,w_600/w750-h563-w800-h534-10621079_1_pi_160609_080009_1_k0njof.jpg",
+      "type": "Hotel room",
+      "location": "San Francisco",
+      "title": "Superb duplex apartment in the historical centre",
+      "price": 657,
+      "rating": {
+        "stars": 3,
+        "count": 177
+      }
+    }
+  ]
